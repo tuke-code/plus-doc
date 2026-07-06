@@ -33,6 +33,7 @@
 | 富文本编辑器支持只读模式                      | https://gitee.com/JavaLionLi/plus-ui/pulls/250       |
 | 新增表格通用组件、搜索通用组件                   | https://gitee.com/JavaLionLi/plus-ui/pulls/253       |
 | 基于 Element Plus 二次封装通用表格、搜索组件     | https://gitee.com/JavaLionLi/plus-ui/pulls/259       |
+| feat 新增 谷歌风格标签页                   | https://gitee.com/JavaLionLi/plus-ui/pulls/280       |
 
 ## 扩展项目列表 欢迎投稿
 
