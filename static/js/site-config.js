@@ -26,7 +26,7 @@ window.PLUS_DOC_SITE_CONFIG = {
             {
                 href: 'https://www.bilibili.com/video/BV1YrtMzvEaT/',
                 image: 'https://foruda.gitee.com/images/1754445885979577012/6cd137d6_1766278.png',
-                period: '2025-08-06=>2026-08-06'
+                period: '2025-08-06=>2027-08-06'
             },
             {
                 href: 'https://www.mall4j.com/cn/?statId=11',
