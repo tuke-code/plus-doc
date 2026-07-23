@@ -24,7 +24,7 @@ window.PLUS_DOC_SITE_CONFIG = {
                 period: '2025-12-07=>2028-12-07'
             },
             {
-                href: 'https://www.bilibili.com/video/BV1YrtMzvEaT/',
+                href: 'https://license.ruoyi.plus/flm/s/100001',
                 image: 'https://foruda.gitee.com/images/1754445885979577012/6cd137d6_1766278.png',
                 period: '2025-08-06=>2027-08-06'
             },
@@ -39,7 +39,7 @@ window.PLUS_DOC_SITE_CONFIG = {
                 period: '2025-07-19=>2028-07-19'
             },
             {
-                href: 'https://blog.csdn.net/leoisaking/article/details/157911968',
+                href: 'https://license.ruoyi.plus/flm/s/100002',
                 image: 'https://foruda.gitee.com/images/1770956996221923210/f45243c8_1766278.jpg',
                 period: '2026-02-13=>2027-02-13'
             },
