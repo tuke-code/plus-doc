@@ -65,6 +65,7 @@
 | Flowable 扩展                           | https://gitee.com/KonBAI-Q/ruoyi-flowable-plus                          |
 | mybatis-flex 版本                       | https://gitee.com/yhan219/ruoyi-vue-flex                                |
 | weblog 博客系统                           | https://gitee.com/fu-zhanshuai/fzshuai-weblog                           |
+| 适配 RuoYi-Vue-Plus 5.X 的插件化应用平台（Wujies 无界） | https://gitee.com/wujies/wujies-platform |
 
 ## 投稿建议
 
