@@ -3,11 +3,11 @@ window.PLUS_DOC_SITE_CONFIG = {
         contactText: '如何成为赞助商 加群联系作者详谈 每日PV2500-3000 IP1700-2500',
         contactLink: '/common/add_group.md',
         home: [
-            {
-                href: 'https://gitee.com/dromara/MaxKey',
-                image: 'https://foruda.gitee.com/images/1700187453544179968/7342304a_1766278.png',
-                period: '2023-11-17=>2026-11-17'
-            },
+            // {
+            //     href: 'https://gitee.com/dromara/MaxKey',
+            //     image: 'https://foruda.gitee.com/images/1700187453544179968/7342304a_1766278.png',
+            //     period: '2023-11-17=>2026-11-17'
+            // },
             {
                 href: 'http://ccflow.org/?frm=ryPlus',
                 image: 'https://foruda.gitee.com/images/1704162419429172656/d0521e59_1766278.png',
@@ -50,10 +50,10 @@ window.PLUS_DOC_SITE_CONFIG = {
             }
         ],
         sidebar: [
-            {
-                href: 'https://gitee.com/dromara/MaxKey',
-                image: 'https://foruda.gitee.com/images/1700187453544179968/7342304a_1766278.png'
-            },
+            // {
+            //     href: 'https://gitee.com/dromara/MaxKey',
+            //     image: 'https://foruda.gitee.com/images/1700187453544179968/7342304a_1766278.png'
+            // },
             {
                 href: 'http://ccflow.org/?frm=ryPlus',
                 image: 'https://foruda.gitee.com/images/1704162419429172656/d0521e59_1766278.png'
