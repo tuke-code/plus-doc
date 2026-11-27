@@ -34,6 +34,7 @@
 | 新增表格通用组件、搜索通用组件                   | https://gitee.com/JavaLionLi/plus-ui/pulls/253       |
 | 基于 Element Plus 二次封装通用表格、搜索组件     | https://gitee.com/JavaLionLi/plus-ui/pulls/259       |
 | feat 新增 谷歌风格标签页                   | https://gitee.com/JavaLionLi/plus-ui/pulls/280       |
+| 添加 MQTT 消息推送支持                    | https://gitee.com/dromara/RuoYi-Vue-Plus/pulls/870   |
 
 ## 扩展项目列表 欢迎投稿
 
